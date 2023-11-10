@@ -1,0 +1,50 @@
+1.Which kernel is used in Linux?
+a) Hybrid kernel
+b) Monolothic kernel
+c) Micro kernel
+d) Exo kernel
+2.Which directory is the mount point for removable media?
+a) /media 
+b) /mnt
+c) /dev
+d) /var
+3.User credentials are required for which shell?
+a) Login shell
+b) Non Login shell
+c) Both
+d) None
+4.Root users terminal session is denoted with?
+a) ~
+b) $
+c) #
+d) #!
+5.head command is a
+a) Shell builtin
+b) Non Shell builtin
+c) Alias
+d) None
+6.Which command is used to remove empty or non empty directory?
+a) rmdir   
+b) rm -d
+c) rm -r
+d) rm
+7.Which command is used to extract fields based on pattern?
+a) sed
+b) grep
+c) cut
+d) tr
+8.df command stands for 
+a) disk free
+b) disk file
+c) disk usage
+d) directory free
+9.Which command is used for 12 hour format time?
+a) date +%r
+b) date +%T
+c) date +%t
+d) date -t
+10.Which commands below creates file?
+a) cat >filename
+b) touch filename
+c) vi filename
+d) All of the above
